@@ -59,3 +59,50 @@ html, body{
     font-weight: 200;
      font-family: "Roboto", sans-serif;
 }
+
+.cards1{
+    display: flex;
+    margin-top: 45px;
+    margin-left: 80px;
+    
+}
+.singlecard{
+    width: 80%;
+    
+    border-right: 10px;
+    border-width: 10px;
+    border-color: black;
+    text-align: center;
+}
+.cards{
+  
+  
+
+}
+
+.portion{
+    display: flex;
+}
+.text1{
+    background-color: olive;
+    align-items: center;
+    padding: 80px 40px;
+}
+.text1 h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: -10px;
+
+}
+.text2{
+    background-color: darkred;
+    padding: 80px 40px;
+}
+
+.text2 h1{
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: -10px;
+
+}
